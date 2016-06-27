@@ -1,0 +1,20 @@
+{
+  "name": "model-storage",
+  "version": "1.0.0",
+  "description": "A browser library to load, save, init, and listen to events from the localStorage",
+  "main": "src/model-storage.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "localStorage",
+    "storage",
+    "store",
+    "model",
+    "data",
+    "browser",
+    "serialization"
+  ],
+  "author": "Steven Lariau <obs145628@gmail.com>",
+  "license": "MIT"
+}
